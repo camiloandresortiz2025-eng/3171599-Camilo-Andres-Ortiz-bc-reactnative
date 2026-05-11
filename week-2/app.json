@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "Catering Elite",
+    "slug": "catering-elite-semana02",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "newArchEnabled": true,
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#0d1117"
+    },
+    "ios": {
+      "supportsTablet": false
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#0d1117"
+      }
+    }
+  }
+}
