@@ -1,0 +1,25 @@
+{
+  "expo": {
+    "name": "Catering Elite",
+    "slug": "catering-elite",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#0d1117"
+    },
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.bootcamp.cateritelite"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#0d1117"
+      },
+      "package": "com.bootcamp.cateritelite"
+    },
+    "sdkVersion": "53.0.0"
+  }
+}
